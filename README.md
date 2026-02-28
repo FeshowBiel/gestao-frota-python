@@ -9,12 +9,12 @@
 Este projeto foi desenvolvido como uma solução *End-to-End* para a gestão de veículos e manutenções de frotas comerciais. O objetivo é unir os conceitos de **Engenharia de Software (CRUD completo)** e **Análise de Dados (Business Intelligence)** em uma única aplicação web interativa e segura.
 
 ##  Principais Funcionalidades
-* ** Autenticação Segura:** Sistema de login utilizando controle de sessão (`Session State`).
-* ** Banco de Dados Relacional:** Estrutura em SQLite com proteção de integridade referencial.
-* ** Gestão de Inventário (CRUD):** Cadastro, leitura, atualização de status e exclusão de veículos.
-* ** Controle de Ordens de Serviço:** Registro de manutenções preventivas e corretivas atreladas diretamente às placas do inventário.
-* ** Dashboard Analítico:** Painel de Inteligência de Negócios (BI) gerado em tempo real, cruzando dados financeiros e operacionais.
-* ** Exportação Profissional:** Geração de relatórios executivos em PDF *on-the-fly*.
+*  Autenticação Segura:** Sistema de login utilizando controle de sessão (`Session State`).
+*  Banco de Dados Relacional:** Estrutura em SQLite com proteção de integridade referencial.
+*  Gestão de Inventário (CRUD):** Cadastro, leitura, atualização de status e exclusão de veículos.
+*  Controle de Ordens de Serviço:** Registro de manutenções preventivas e corretivas atreladas diretamente às placas do inventário.
+*  Dashboard Analítico:** Painel de Inteligência de Negócios (BI) gerado em tempo real, cruzando dados financeiros e operacionais.
+*  Exportação Profissional:** Geração de relatórios executivos em PDF *on-the-fly*.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Front-end / Framework:** Streamlit
