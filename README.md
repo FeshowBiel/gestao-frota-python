@@ -25,11 +25,12 @@ Este projeto foi desenvolvido como uma solução *End-to-End* para a gestão de 
 
 ## 🚀 Como Executar o Projeto na Sua Máquina
 
-**1. Clone o repositório:**
-```bash
+# 1. Clone o repositório:
 git clone https://github.com/FeshowBiel/gestao-frota-python.git
+
+# 2. Entre na pasta do projeto:
 cd gestao-frota-python
-cd NOME_DO_REPOSITORIO
+
 ## 👨‍💻 Autor
 
 **Gabriel** *Analista de Dados & Estudante de Análise e Desenvolvimento de Sistemas*
