@@ -27,5 +27,14 @@ Este projeto foi desenvolvido como uma solução *End-to-End* para a gestão de 
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/gabriel.b.g.ribeiro@hotmail.com.git](https://github.com/gabriel.b.g.ribeiro@hotmail.com.git)
+git clone https://github.com/FeshowBiel/gestao-frota-python.git
+cd gestao-frota-python
 cd NOME_DO_REPOSITORIO
+## 👨‍💻 Autor
+
+**Gabriel** *Analista de Dados & Estudante de Análise e Desenvolvimento de Sistemas*
+
+Projeto desenvolvido como portfólio prático para demonstrar a integração entre Engenharia de Software e Business Intelligence. Meu foco é transformar dados brutos em decisões estratégicas através de ferramentas modernas de desenvolvimento.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-galv%C3%A3o-ribeiro-54b64b17b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeshowBiel)
