@@ -27,5 +27,5 @@ Este projeto foi desenvolvido como uma solução *End-to-End* para a gestão de 
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+git clone [https://github.com/gabriel.b.g.ribeiro@hotmail.com.git](https://github.com/gabriel.b.g.ribeiro@hotmail.com.git)
 cd NOME_DO_REPOSITORIO
